@@ -6,3 +6,6 @@
 
 2018-3-31
 - blog源码同步到github
+
+2018.4-2
+- 原型链 作用域链 prototype __proto__
