@@ -16,4 +16,4 @@
 
 2018-4-8
 - [ ] blog所有文章评论都是‘哈哈’
-- [ ] 开始一个开源项目 - todoList
+- [ ] 开始一个开源项目 - todoList vue、node、ssr、mongoDB、linux
