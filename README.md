@@ -16,4 +16,9 @@
 
 2018-4-8
 - [ ] blog所有文章评论都是‘哈哈’
-- [ ] 开始一个开源项目 - todoList vue、node、ssr、mongoDB、linux.
+- [ ] 开始一个开源项目 - todoList vue、node、ssr、mongoDB、linux、npm、按需加载功能板块.
+项目初衷：在这个信息大爆炸的时代，每天不可避免主动、被动的摄入大量知识碎片，如果不加以整理、规划很快便会遗忘。
+
+2018-4-10
+- [ ] 学习nuxt SSR
+- [ ] 开始todoApp项目！！！
