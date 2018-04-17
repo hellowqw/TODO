@@ -1,7 +1,7 @@
 ## 目录
-[Daily](#Daily)
-[Plan](#Plan)
-[Todos](#Todos)
+[Daily](#daily)
+[Plan](#plan)
+[Todos](#todos)
 ## Daily
 
 - [从今天起，每天详解一道算法题](https://juejin.im/post/5ab71940f265da237410efc4)
