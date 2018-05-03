@@ -9,10 +9,10 @@
 - [ ] [underscore.js源码学习](http://www.bootcss.com/p/underscore/#each)
 ## Plan
 
+- [ ] ToDoApp 
 - [ ] [vue源码学习](http://hcysun.me/2017/03/03/Vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/)
 - [ ] webpack
 - [ ] ES6
-- [ ] ToDoApp
 - [ ] [Node.js+Mysql+Vue+ElementUI 实现登录注册注销功能](https://juejin.im/post/5acbeeb7f265da23a049df8a)
 - [ ] [Express 实战](https://juejin.im/post/59bce35f5188257e70531ec0)
 
