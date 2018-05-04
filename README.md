@@ -9,7 +9,7 @@
 - [ ] [underscore.js源码学习](http://www.bootcss.com/p/underscore/#each)
 ## Plan
 
-- [ ] ToDoApp 
+- [ ] ToDoApp : 正在做、计划做、添加标签、展示标签列表。
 - [ ] [vue源码学习](http://hcysun.me/2017/03/03/Vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/)
 - [ ] webpack
 - [ ] ES6
